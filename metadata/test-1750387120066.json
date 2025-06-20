@@ -1,5 +1,15 @@
 {
   "name": "Test NFT - #1750387120066",
   "description": "This is a test NFT for GitHub push function.",
-  "image": "https://example.com/test-image.png"
+  "image": "https://example.com/test-image.png",
+  "追加_1750387164462": {
+    "timestamp": "2025-06-20T02:39:24.461Z",
+    "description": "このキーはテストで追加されました",
+    "testRun": "既存ファイル更新",
+    "originalKeys": [
+      "name",
+      "description",
+      "image"
+    ]
+  }
 }
