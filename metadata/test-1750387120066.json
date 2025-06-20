@@ -11,5 +11,16 @@
       "description",
       "image"
     ]
+  },
+  "追加_1750387182313": {
+    "timestamp": "2025-06-20T02:39:42.312Z",
+    "description": "このキーはテストで追加されました",
+    "testRun": "既存ファイル更新",
+    "originalKeys": [
+      "name",
+      "description",
+      "image",
+      "追加_1750387164462"
+    ]
   }
 }
